@@ -1,0 +1,41 @@
+{
+    "generated_at": "2026-05-05T17:27:01.212089+00:00",
+    "show_all": true,
+    "search": "Purple",
+    "limit": 25,
+    "hidden_count": 0,
+    "entries": [
+        {
+            "number": 1,
+            "upgrade_id": 501,
+            "name": "Brawling Obstacle: Purple Torches",
+            "type": "Unlock",
+            "progress_pct": 1.2903225806451613,
+            "is_major": false
+        },
+        {
+            "number": 2,
+            "upgrade_id": 1058,
+            "name": "Purple Dragon Target",
+            "type": "Decoration",
+            "progress_pct": 0.0,
+            "is_major": false
+        },
+        {
+            "number": 3,
+            "upgrade_id": 414,
+            "name": "Purple Balloon",
+            "type": "Decoration",
+            "progress_pct": 0.0,
+            "is_major": false
+        },
+        {
+            "number": 4,
+            "upgrade_id": 125,
+            "name": "Obstacle: Purple Torch",
+            "type": "Decoration",
+            "progress_pct": 0.0,
+            "is_major": false
+        }
+    ]
+}

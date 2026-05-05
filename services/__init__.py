@@ -1,0 +1,1 @@
+# Shared service helpers for the GW2 Discord bot.

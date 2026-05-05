@@ -1,0 +1,95 @@
+{
+    "active": true,
+    "upgrade_id": 501,
+    "upgrade_name": "Brawling Obstacle: Purple Torches",
+    "upgrade_type": "Unlock",
+    "list_number": 1,
+    "progress_pct": 1.2903225806451613,
+    "estimated_remaining_cost": 125675,
+    "unknown_price_count": 2,
+    "items": [
+        {
+            "item_id": 24527,
+            "name": "Amethyst Lump",
+            "required": 500,
+            "current": 0,
+            "remaining": 500,
+            "progress_pct": 0.0,
+            "tp_buyable": true,
+            "buyout_price": 190,
+            "remaining_cost": 95000,
+            "note": null
+        },
+        {
+            "item_id": 24315,
+            "name": "Molten Lodestone",
+            "required": 5,
+            "current": 0,
+            "remaining": 5,
+            "progress_pct": 0.0,
+            "tp_buyable": true,
+            "buyout_price": 4240,
+            "remaining_cost": 21200,
+            "note": null
+        },
+        {
+            "item_id": 20323,
+            "name": "Unidentified Dye",
+            "required": 25,
+            "current": 0,
+            "remaining": 25,
+            "progress_pct": 0.0,
+            "tp_buyable": true,
+            "buyout_price": 379,
+            "remaining_cost": 9475,
+            "note": null
+        },
+        {
+            "item_id": 12502,
+            "name": "Eggplant",
+            "required": 1000,
+            "current": 0,
+            "remaining": 1000,
+            "progress_pct": 0.0,
+            "tp_buyable": false,
+            "buyout_price": null,
+            "remaining_cost": null,
+            "note": null
+        },
+        {
+            "item_id": 20799,
+            "name": "Mystic Crystal",
+            "required": 20,
+            "current": 20,
+            "remaining": 0,
+            "progress_pct": 100.0,
+            "tp_buyable": false,
+            "buyout_price": null,
+            "remaining_cost": null,
+            "note": null
+        }
+    ],
+    "guild_resources": [
+        {
+            "type": "Currency",
+            "name": "Aetherium",
+            "required": 2000,
+            "resource_kind": "aetherium",
+            "source_item_id": null,
+            "current": 1395
+        },
+        {
+            "type": "Collectible",
+            "name": "Guild Favor",
+            "required": 200,
+            "resource_kind": "favor",
+            "source_item_id": 70701,
+            "current": 1422
+        }
+    ],
+    "last_refresh": "2026-05-05T17:59:48.944715+00:00",
+    "channel_id": 1478443722109616263,
+    "message_id": 1501208987813548093,
+    "started_by": 272369608147861504,
+    "started_at": "2026-05-05T13:08:33.691890+00:00"
+}

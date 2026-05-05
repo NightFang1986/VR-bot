@@ -1,0 +1,13 @@
+{
+    "active": false,
+    "title": "Winner takes all raffle!",
+    "start_time": "2026-04-26T15:35:00.338142+00:00",
+    "end_time": "2026-05-03T18:35:00.338142+00:00",
+    "multiple_tickets": false,
+    "ticket_price": 50000,
+    "winner_takes_all": true,
+    "ended_at": "2026-05-03T18:48:54.798076+00:00",
+    "winner_discord_id": "200199209276801024",
+    "winner_gw2_account_name": "Mehzu.7162",
+    "final_pot": 3170000
+}
